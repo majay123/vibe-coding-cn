@@ -121,6 +121,40 @@
 ---
 
 <details>
+<summary><strong>📝 提示词资源</strong></summary>
+
+### 提示词库
+
+| 资源 | 链接 | 说明 |
+|:---|:---|:---|
+| 在线提示词表格 | [Google Sheets](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1) | 推荐 |
+| 元提示词库 | [Google Sheets](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220) | |
+| System Prompts 仓库 | [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | |
+| Awesome ChatGPT Prompts | [GitHub](https://github.com/f/awesome-chatgpt-prompts) | |
+
+### 提示词工具
+
+| 工具 | 链接 | 说明 |
+|:---|:---|:---|
+| Skills 制作器 | [GitHub](https://github.com/yusufkaraaslan/Skill_Seekers) | 生成定制化 Skills |
+| LangGPT | [GitHub](https://github.com/langgptai/LangGPT) | 结构化提示词框架 |
+
+### 提示词教程
+
+| 教程 | 链接 | 说明 |
+|:---|:---|:---|
+| Prompt Engineering Guide | [promptingguide.ai](https://www.promptingguide.ai/zh) | 中文版 |
+| Learn Prompting | [learnprompting.org](https://learnprompting.org/zh-Hans/) | 中文版 |
+| OpenAI Prompt Engineering | [platform.openai.com](https://platform.openai.com/docs/guides/prompt-engineering) | 官方 |
+| Anthropic Prompt Engineering | [docs.anthropic.com](https://docs.anthropic.com/claude/docs/prompt-engineering) | 官方 |
+| State-Of-The-Art Prompting | [Google Docs](https://docs.google.com/document/d/11tBoylc5Pvy8wDp9_i2UaAfDi8x02iMNg9mhCNv65cU/) | YC 顶级技巧 |
+| Vibe Coding 101 | [Google Drive](https://drive.google.com/file/d/1OMiqUviji4aI56E14PLaGVJsbjhOP1L1/view) | 入门指南 |
+
+</details>
+
+---
+
+<details>
 <summary><strong>👥 社区与论坛</strong></summary>
 
 ### Telegram
@@ -160,40 +194,6 @@
 ---
 
 <details>
-<summary><strong>📝 提示词资源</strong></summary>
-
-### 提示词库
-
-| 资源 | 链接 | 说明 |
-|:---|:---|:---|
-| 在线提示词表格 | [Google Sheets](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1) | 推荐 |
-| 元提示词库 | [Google Sheets](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220) | |
-| System Prompts 仓库 | [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | |
-| Awesome ChatGPT Prompts | [GitHub](https://github.com/f/awesome-chatgpt-prompts) | |
-
-### 提示词工具
-
-| 工具 | 链接 | 说明 |
-|:---|:---|:---|
-| Skills 制作器 | [GitHub](https://github.com/yusufkaraaslan/Skill_Seekers) | 生成定制化 Skills |
-| LangGPT | [GitHub](https://github.com/langgptai/LangGPT) | 结构化提示词框架 |
-
-### 提示词教程
-
-| 教程 | 链接 | 说明 |
-|:---|:---|:---|
-| Prompt Engineering Guide | [promptingguide.ai](https://www.promptingguide.ai/zh) | 中文版 |
-| Learn Prompting | [learnprompting.org](https://learnprompting.org/zh-Hans/) | 中文版 |
-| OpenAI Prompt Engineering | [platform.openai.com](https://platform.openai.com/docs/guides/prompt-engineering) | 官方 |
-| Anthropic Prompt Engineering | [docs.anthropic.com](https://docs.anthropic.com/claude/docs/prompt-engineering) | 官方 |
-| State-Of-The-Art Prompting | [Google Docs](https://docs.google.com/document/d/11tBoylc5Pvy8wDp9_i2UaAfDi8x02iMNg9mhCNv65cU/) | YC 顶级技巧 |
-| Vibe Coding 101 | [Google Drive](https://drive.google.com/file/d/1OMiqUviji4aI56E14PLaGVJsbjhOP1L1/view) | 入门指南 |
-
-</details>
-
----
-
-<details>
 <summary><strong>🐙 GitHub 精选仓库</strong></summary>
 
 ### CLI 工具
@@ -221,6 +221,7 @@
 | awesome-chatgpt-prompts | [GitHub](https://github.com/f/awesome-chatgpt-prompts) | ChatGPT 提示词集合 |
 | awesome-chatgpt-prompts-zh | [GitHub](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 中文提示词 |
 | system-prompts-and-models-of-ai-tools | [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | AI 工具系统提示词 |
+| claude-code-system-prompts | [GitHub](https://github.com/Piebald-AI/claude-code-system-prompts) | Claude Code 系统提示词 |
 | LangGPT | [GitHub](https://github.com/langgptai/LangGPT) | 结构化提示词框架 |
 
 ### Agent 框架
